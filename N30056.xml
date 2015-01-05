@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:039927_0000_10161C15CB404790"/>
-            <pb facs="tcp:039927_0001_10161BD494FC3910"/>
+            <pb facs="unknown:039927_0000_10161C15CB404790"/>
+            <pb facs="unknown:039927_0001_10161BD494FC3910"/>
             <opener>
                <dateline>
                   <hi>Boston,</hi> 
